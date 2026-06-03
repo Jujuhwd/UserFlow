@@ -12,7 +12,7 @@ L'objectif est de simplifier et standardiser les procédures de création de com
 
 https://userflow-demo.jg-systems.fr/
 
-⚠️ Environnement de démonstration réinitialisé automatiquement chaque nuit.
+⚠️ Environnement de démonstration.
 
 ## Fonctionnalités
 
