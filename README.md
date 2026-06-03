@@ -10,7 +10,7 @@ L'objectif est de simplifier et standardiser les procédures de création de com
 
 **Tester UserFlow :**
 
-[https://demo.jg-systems.fr](https://userflow-demo.jg-systems.fr/)
+https://userflow-demo.jg-systems.fr/
 
 ⚠️ Environnement de démonstration réinitialisé automatiquement chaque nuit.
 
