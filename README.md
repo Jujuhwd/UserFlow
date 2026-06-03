@@ -64,4 +64,5 @@ Thème sombre
 1. Télécharger le projet
 2. Mettre les fichier sur votre serveur web
 3. Créer une Base de données
-4. Modifier le fichier /includes/config.php
+4. Importer le dump "install.sql"
+5. Modifier le fichier /includes/config.php en fonction de vos identifiants et du nom de votre BDD.
